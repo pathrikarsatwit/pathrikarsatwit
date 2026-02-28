@@ -71,7 +71,7 @@ Built with Python, FAISS, and Sentence Transformers.
 
 ---
 
-## 🚀 Completed Projects
+## 🚀 Completed Academic Projects
 
 ### ✈️ Vacation Genie – AI Travel Concierge
 
