@@ -14,130 +14,125 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I’m Sakshi Pathrikar
+Your README content appears in one long line because GitHub Markdown requires **blank lines between sections** to render properly.
 
-🎓 M.S. Applied Computer Science (Expected Dec 2026)
-🎓 B.S. Computer Science, Minor in Applied Mathematics
+Here’s your cleaned and properly formatted version (just copy-paste this into your README):
+
+---
+
+🎓 **M.S. Applied Computer Science** (Expected Dec 2026)
+🎓 **B.S. Computer Science**, Minor in Applied Mathematics
 📍 Wentworth Institute of Technology
 📊 Undergraduate GPA: 3.76 / 4.0
 
-🔧 Tech I’m Using
-💻 Languages
+---
+
+## 🔧 Tech I’m Using
+
+### 💻 Languages
 
 Python • C++ • C# • JavaScript • SQL
 
-🤖 AI / Machine Learning
+### 🤖 AI / Machine Learning
 
-LLaMA fine-tuning (LoRA / PEFT)
+* LLaMA fine-tuning (LoRA / PEFT)
+* Hugging Face Transformers
+* TRL (GRPOTrainer)
+* Retrieval-Augmented Generation (RAG)
+* Vector Search
+* Heuristic Search (A*, DFS, UCS)
+* First-Order Logic Resolution
 
-Hugging Face Transformers
+### 🌐 Backend & Systems
 
-TRL (GRPOTrainer)
+* Flask (API development & model serving)
+* RESTful architecture
+* Google Geocoding & Weather APIs
+* Database scaffolding & integration
+* Local model deployment with ngrok
 
-Retrieval-Augmented Generation (RAG)
+### 🎨 Frontend
 
-Vector Search
+* HTML / CSS
+* Blazor (Razor Pages)
+* Fluent UI
 
-Heuristic Search (A*, DFS, UCS)
+---
 
-First-Order Logic Resolution
+## 🎓 Master’s Thesis
 
-🌐 Backend & Systems
-
-Flask (API development & model serving)
-
-RESTful architecture
-
-Google Geocoding & Weather APIs
-
-Database scaffolding & integration
-
-Local model deployment with ngrok
-
-🎨 Frontend
-
-HTML / CSS
-
-Blazor (Razor Pages)
-
-Fluent UI
-
-🎓 Master’s Thesis
-🔎 RAG System with Attack Simulation
+### 🔎 RAG System with Attack Simulation
 
 This project implements a Retrieval-Augmented Generation (RAG) pipeline using vector embeddings and semantic search to generate context-aware answers from a document corpus.
 
-It also explores security vulnerabilities in RAG systems by simulating:
+It also explores security vulnerabilities by simulating:
 
-Document Injection Attacks
-
-Retrieval Poisoning Attacks
+* Document Injection Attacks
+* Retrieval Poisoning Attacks
 
 The system compares outputs before and after attacks to demonstrate how adversarial manipulation can affect LLM responses.
 
 Built with Python, FAISS, and Sentence Transformers.
 
-🚀 Completed Projects
-✈️ Vacation Genie – AI Travel Concierge
+---
+
+## 🚀 Completed Projects
+
+### ✈️ Vacation Genie – AI Travel Concierge
 
 A full-stack AI travel planning system integrating a fine-tuned LLaMA model with real-time API data.
 
-Key Contributions:
+**Key Contributions:**
 
-Fine-tuned LLaMA 3-8B-Instruct
-
-Structured JSON itinerary generation
-
-Integrated Google Weather & Geocoding APIs
-
-Built Flask backend with interactive frontend
-
-Implemented RAG + vector search enhancements
+* Fine-tuned LLaMA 3-8B-Instruct
+* Structured JSON itinerary generation
+* Integrated Google Weather & Geocoding APIs
+* Built Flask backend with interactive frontend
+* Implemented RAG + vector search enhancements
 
 This project demonstrates end-to-end AI system design: model training → API integration → frontend delivery.
 
-🧠 First-Order Logic Resolution Prover
+---
+
+### 🧠 First-Order Logic Resolution Prover
 
 Developed a theorem prover in Python implementing resolution refutation.
 
-CNF parsing
-
-Clause resolution steps
-
-Proof trace generation
-
-Performance statistics
+* CNF parsing
+* Clause resolution steps
+* Proof trace generation
+* Performance statistics
 
 Focused on symbolic AI and logical inference systems.
 
-🧩 Heuristic Evaluation for A* (15-Puzzle)
+---
+
+### 🧩 Heuristic Evaluation for A* (15-Puzzle)
 
 Implemented and compared:
 
-Misplaced Tiles
-
-Manhattan Distance
-
-Linear Conflict
+* Misplaced Tiles
+* Manhattan Distance
+* Linear Conflict
 
 Analyzed:
 
-Nodes expanded
-
-Execution time
-
-Path cost
+* Nodes expanded
+* Execution time
+* Path cost
 
 A deep dive into algorithmic efficiency and heuristic performance.
 
-🏥 Doctor Appointment Management System
+---
+
+### 🏥 Doctor Appointment Management System
 
 Full-stack web application for managing attending & resident doctor scheduling.
 
-Role-based meeting system
+* Role-based meeting system
+* Fluent UI multi-select dropdown integration
+* SQL database scaffolding
+* Task & note assignment functionality
 
-Fluent UI multi-select dropdown integration
+---
 
-SQL database scaffolding
-
-Task & note assignment functionality
