@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Your README content appears in one long line because GitHub Markdown requires **blank lines between sections** to render properly.
-
-Here’s your cleaned and properly formatted version (just copy-paste this into your README):
-
 ---
 
 🎓 **M.S. Applied Computer Science** (Expected Dec 2026)
