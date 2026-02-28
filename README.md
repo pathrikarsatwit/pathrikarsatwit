@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 ---
 
-🎓 **M.S. Applied Computer Science** (Expected Dec 2026)
+🎓 **M.S. Applied Computer Science** (Expected Aug/Dec 2026)
 🎓 **B.S. Computer Science**, Minor in Applied Mathematics
 📍 Wentworth Institute of Technology
-📊 Undergraduate GPA: 3.76 / 4.0
+📊 GPA: 3.76 / 4.0
 
 ---
 
@@ -33,7 +33,6 @@ Python • C++ • C# • JavaScript • SQL
 
 * LLaMA fine-tuning (LoRA / PEFT)
 * Hugging Face Transformers
-* TRL (GRPOTrainer)
 * Retrieval-Augmented Generation (RAG)
 * Vector Search
 * Heuristic Search (A*, DFS, UCS)
@@ -43,7 +42,7 @@ Python • C++ • C# • JavaScript • SQL
 
 * Flask (API development & model serving)
 * RESTful architecture
-* Google Geocoding & Weather APIs
+* Weather APIs
 * Database scaffolding & integration
 * Local model deployment with ngrok
 
@@ -121,14 +120,34 @@ A deep dive into algorithmic efficiency and heuristic performance.
 
 ---
 
-### 🏥 Doctor Appointment Management System
+## 💼 Internship Experience  
 
-Full-stack web application for managing attending & resident doctor scheduling.
+### 🏥 MGH | Programmer Analyst Co-op  
+**Doctor Appointment Management System**
 
-* Role-based meeting system
-* Fluent UI multi-select dropdown integration
-* SQL database scaffolding
-* Task & note assignment functionality
+Developed a full-stack web application to support scheduling and task coordination between attending and resident doctors.
+
+**Key Contributions:**
+- Designed a role-based scheduling system  
+- Implemented Fluent UI multi-select dropdown for dynamic user selection  
+- Integrated SQL database scaffolding into the Blazor application  
+- Built note and task assignment functionality for workflow management  
+- Improved overall usability and internal coordination processes  
+
+**Tech Stack:** C#, Blazor (Razor Pages), SQL, Fluent UI  
 
 ---
+
+### 🏢 BXP | IT Applications Co-op  
+**Solar Energy Data Dashboard Pipeline**
+
+Contributed to the development of an internal solar energy data dashboard application.
+
+**Highlights:**
+- Built and enhanced application features based on business requirements  
+- Worked on backend logic and database integration  
+- Collaborated within a development team environment  
+- Participated in iterative development and testing cycles  
+
+**Tech Stack:** Python, SQL, Data Processing Pipelines  
 
