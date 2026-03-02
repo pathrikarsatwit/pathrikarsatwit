@@ -88,6 +88,14 @@ A full-stack AI travel planning system integrating a fine-tuned LLaMA model with
 This project demonstrates end-to-end AI system design: model training → API integration → frontend delivery.
 
 ---
+### 
+**Key Contribution**
+•	Designed and deployed a 10-service containerized microservices system using Docker Compose and FastAPI, enabling independent service communication and modular scalability
+•	Implemented NGINX round-robin load balancing across service instances to simulate horizontal scaling.
+•	Designed relational schemas and managed transactional database operations.
+•	Integrated asynchronous email workflows using Postfix and MailHog.
+
+---
 
 ### 🧩 Heuristic Evaluation for A* (15-Puzzle)
 
