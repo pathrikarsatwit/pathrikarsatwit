@@ -88,12 +88,31 @@ A full-stack AI travel planning system integrating a fine-tuned LLaMA model with
 This project demonstrates end-to-end AI system design: model training → API integration → frontend delivery.
 
 ---
-### 
-**Key Contribution**
-•	Designed and deployed a 10-service containerized microservices system using Docker Compose and FastAPI, enabling independent service communication and modular scalability
-•	Implemented NGINX round-robin load balancing across service instances to simulate horizontal scaling.
-•	Designed relational schemas and managed transactional database operations.
-•	Integrated asynchronous email workflows using Postfix and MailHog.
+🐳 Pokémon Cloud Microservices Platform
+
+A distributed, containerized microservices architecture built with FastAPI and Docker Compose, designed to simulate scalable cloud-native infrastructure.
+
+🚀 Key Contributions
+
+Architected and deployed a 10-service containerized microservices system using Docker Compose and FastAPI, enabling independent service communication and modular scalability.
+
+Implemented NGINX-based round-robin load balancing to simulate horizontal scaling across replicated service instances.
+
+Designed relational database schemas and managed transactional operations to ensure data integrity and consistency.
+
+Integrated asynchronous email workflows using Postfix and MailHog for development-ready notification handling.
+
+🛠️ Tech Stack
+
+Backend: FastAPI (Python)
+
+Containerization: Docker, Docker Compose
+
+Load Balancing: NGINX
+
+Database: Relational DB (SQL-based)
+
+Email Services: Postfix, MailHog
 
 ---
 
