@@ -89,19 +89,6 @@ This project demonstrates end-to-end AI system design: model training → API in
 
 ---
 
-### 🧠 First-Order Logic Resolution Prover
-
-Developed a theorem prover in Python implementing resolution refutation.
-
-* CNF parsing
-* Clause resolution steps
-* Proof trace generation
-* Performance statistics
-
-Focused on symbolic AI and logical inference systems.
-
----
-
 ### 🧩 Heuristic Evaluation for A* (15-Puzzle)
 
 Implemented and compared:
